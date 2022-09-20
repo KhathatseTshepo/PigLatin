@@ -1,0 +1,22 @@
+C:\Users\khath\Downloads\PigLatin\PigLatin\obj\Debug\PigLatin.csproj.AssemblyReference.cache
+C:\Users\khath\Downloads\PigLatin\PigLatin\obj\Debug\PigLatin.csproj.SuggestedBindingRedirects.cache
+C:\Users\khath\Downloads\PigLatin\PigLatin\obj\Debug\PigLatin.Form1.resources
+C:\Users\khath\Downloads\PigLatin\PigLatin\obj\Debug\PigLatin.Properties.Resources.resources
+C:\Users\khath\Downloads\PigLatin\PigLatin\obj\Debug\PigLatin.csproj.GenerateResource.cache
+C:\Users\khath\Downloads\PigLatin\PigLatin\obj\Debug\PigLatin.csproj.CoreCompileInputs.cache
+C:\Users\khath\Downloads\PigLatin\PigLatin\bin\Debug\PigLatin.exe.config
+C:\Users\khath\Downloads\PigLatin\PigLatin\bin\Debug\PigLatin.exe
+C:\Users\khath\Downloads\PigLatin\PigLatin\bin\Debug\PigLatin.pdb
+C:\Users\khath\Downloads\PigLatin\PigLatin\obj\Debug\PigLatin.exe
+C:\Users\khath\Downloads\PigLatin\PigLatin\obj\Debug\PigLatin.pdb
+C:\Users\khath\OneDrive\Desktop\Khathatse Tshepo, 201909464\Question 2\PigLatin\PigLatin\bin\Debug\PigLatin.exe.config
+C:\Users\khath\OneDrive\Desktop\Khathatse Tshepo, 201909464\Question 2\PigLatin\PigLatin\bin\Debug\PigLatin.exe
+C:\Users\khath\OneDrive\Desktop\Khathatse Tshepo, 201909464\Question 2\PigLatin\PigLatin\bin\Debug\PigLatin.pdb
+C:\Users\khath\OneDrive\Desktop\Khathatse Tshepo, 201909464\Question 2\PigLatin\PigLatin\obj\Debug\PigLatin.csproj.AssemblyReference.cache
+C:\Users\khath\OneDrive\Desktop\Khathatse Tshepo, 201909464\Question 2\PigLatin\PigLatin\obj\Debug\PigLatin.csproj.SuggestedBindingRedirects.cache
+C:\Users\khath\OneDrive\Desktop\Khathatse Tshepo, 201909464\Question 2\PigLatin\PigLatin\obj\Debug\PigLatin.Form1.resources
+C:\Users\khath\OneDrive\Desktop\Khathatse Tshepo, 201909464\Question 2\PigLatin\PigLatin\obj\Debug\PigLatin.Properties.Resources.resources
+C:\Users\khath\OneDrive\Desktop\Khathatse Tshepo, 201909464\Question 2\PigLatin\PigLatin\obj\Debug\PigLatin.csproj.GenerateResource.cache
+C:\Users\khath\OneDrive\Desktop\Khathatse Tshepo, 201909464\Question 2\PigLatin\PigLatin\obj\Debug\PigLatin.csproj.CoreCompileInputs.cache
+C:\Users\khath\OneDrive\Desktop\Khathatse Tshepo, 201909464\Question 2\PigLatin\PigLatin\obj\Debug\PigLatin.exe
+C:\Users\khath\OneDrive\Desktop\Khathatse Tshepo, 201909464\Question 2\PigLatin\PigLatin\obj\Debug\PigLatin.pdb
